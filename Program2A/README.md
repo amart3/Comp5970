@@ -1,4 +1,4 @@
-Programming Assignment Directions
+Programming Assignment 2A
 
 You are to develop an app with an ImageView and three buttons. The ImageView should be roughly 300x300 pixels, 50 pixels from the top of the screen, and centered horizontally. Below the ImageView should be three buttons, each centered horizontally one above the other and spaced to pleasantly sit below the ImageView on some recent model of iPhone or iPod Touch (tell what one you used in a comment with your assignment).  The top button should be labeled “War Eagle” and the bottom button should be labeled “Roll Tide” and the middle one “SEC”
 
