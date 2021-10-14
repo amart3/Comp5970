@@ -1,4 +1,4 @@
-Module 2 Programming assignment
+Programming Assignment 1
 
 In this assignment you are going to develop a Swift function named “payment”  to calculate the amount of a mortgage payment. Refer to the video below and/or any online source for how the mathematics of the calculation works. You function should take as inputs:
 
