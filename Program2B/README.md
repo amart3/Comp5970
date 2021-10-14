@@ -1,4 +1,4 @@
-Module 2 Programming assignment
+Programming Assignment 2B
 
 In this assignment you are to turn the loan calculator playground you did in the previous module into an app. The user interface of your app should have text fields to enter
 
